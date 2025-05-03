@@ -26,7 +26,7 @@
 ## Raspberry Pi 1 Model A
 - **Описание**: Упрощённая версия Model B с 256 МБ ОЗУ, 1 портом USB, без Ethernet.
 - **Дата анонса**: 29 февраля 2012 года. Model A была анонсирована одновременно с Model B, но изначально акцент был на Model B  [^1].
-- **Дата выхода в продажу**: 4 февраля 2013 года. Model A поступила в продажу позже из-за приоритета производства Model B.
+- **Дата выхода в продажу**: 4 февраля 2013 года. Model A поступила в продажу позже из-за приоритета производства Model B [^5].
 - **Примечание:** Model A была нацелена на проекты с низким энергопотреблением, стоила $25.
 
 
@@ -35,3 +35,4 @@
 [^2]: [Upcoming board revision](https://www.raspberrypi.com/news/upcoming-board-revision/)
 [^3]: [Made in the UK!](https://www.raspberrypi.com/news/made-in-the-uk/)
 [^4]: [A nice shiny photo of the rev2 board](https://www.raspberrypi.com/news/a-nice-shiny-photo-of-the-rev2-board-and-user-guide-news/)
+[^5]: [Model A now for sale in Europe](https://www.raspberrypi.com/news/model-a-now-for-sale-in-europe-buy-one-today/)
