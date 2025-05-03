@@ -29,8 +29,7 @@
 - **Дата выхода в продажу**: 4 февраля 2013 года. Model A поступила в продажу позже из-за приоритета производства Model B [^5].
 - **Примечание:** Model A была нацелена на проекты с низким энергопотреблением, стоила $25.
 
-
-
+## Ссылки
 [^1]: [Запуск Raspberry Pi](https://www.raspberrypi.com/news/the-raspberry-pi-launch/)
 [^2]: [Upcoming board revision](https://www.raspberrypi.com/news/upcoming-board-revision/)
 [^3]: [Made in the UK!](https://www.raspberrypi.com/news/made-in-the-uk/)
