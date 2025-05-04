@@ -13,7 +13,7 @@
 
 ## Raspberry Pi 1 Model B (ревизии 1.0, 2.0)
 
-- **Описание**: Первая модель Raspberry Pi, оснащённая процессором Broadcom BCM2835 (ARM11, 700 МГц), 256 МБ ОЗУ (позже 512 МБ в ревизии 2.0), 2 порта USB, Ethernet, 26-пиновый GPIO.
+- **Описание**: Первая модель Raspberry Pi, оснащённая процессором Broadcom BCM2835 (ARM11, 700 МГц), 256 МБ ОЗУ (позже 512 МБ в ревизии 2.0 [^0]), 2 порта USB, Ethernet, 26-пиновый GPIO.
 - **Ревизия 1.0**:
   - **Дата анонса и начала продаж**: 29 февраля 2012 года. Raspberry Pi Foundation объявила о запуске Model B через сайт и пресс-релиз, вызвав огромный ажиотаж [^1]. Продажи начались одновременно с анонсом через дистрибьюторов RS Components и Farnell. Оригинальная плата и была произведена в Китае.
   - **Примечание**: Ревизия 1.0 имела 256 МБ ОЗУ. Ранние платы этой ревизии имели и некоторые аппаратные ограничения и ошибки(проблемы с USB и HDMI).
@@ -101,6 +101,7 @@
 |                | Rev 1.1 | 19 августа 2024     |
 
 ## Ссылки
+[^0]: [Model B now ships with 512MB of RAM](https://www.raspberrypi.com/news/model-b-now-ships-with-512mb-of-ram/)
 [^1]: [Запуск Raspberry Pi](https://www.raspberrypi.com/news/the-raspberry-pi-launch/)
 [^2]: [Upcoming board revision](https://www.raspberrypi.com/news/upcoming-board-revision/)
 [^3]: [Made in the UK!](https://www.raspberrypi.com/news/made-in-the-uk/)
