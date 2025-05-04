@@ -11,4 +11,4 @@
 - [Список моделей Raspberry Pi](raspberry_pi_version.md)
 - [Список моделей Raspberry Pi Zero](raspberry_pi_zero_cm_version.md#zero)
 - [Список моделей Raspberry Pi CM](raspberry_pi_zero_cm_version.md#cm)
-- [Список моделей Raspberry Pi 400/500](raspberry_pi_zero_cm_version.md#400)
+- [Список моделей Raspberry Pi 400/500](raspberry_pi_zero_cm_version.md#keyboard)
