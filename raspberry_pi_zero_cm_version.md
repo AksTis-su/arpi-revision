@@ -19,14 +19,14 @@ Zero предназначены для компактных систем
 
 ## Сводная таблица
 
-| Модель      | Ревизия | Дата начала продаж  |
-| ---         | ---     | ---                 |
-| Pi Zero     | Rev 1.2 | 26 ноября 2015      |
-|             | Rev 1.3 | ???                 |
-| Pi Zero W   | Rev 1.1 | 28 февраля 2017     |
-| Pi Zero 2 W | Rev 1.0 | 28 октября 2021     |
+| Модель      | Ревизия | Дата начала продаж | SoC                  | CPU                  | Core       | RAM   | 
+| ---         | ---     | ---                | ---                  | ---                  | ---        | ---   | 
+| Pi Zero     | Rev 1.2 | 26 ноября 2015     | BCM2835              | ARMv6 ARM1176JZF-S   | 1 1GHz x32 | 512MB | 
+|             | Rev 1.3 | ???                | BCM2835              | ARMv6 ARM1176JZF-S   | 1 1GHz x32 | 512MB | 
+| Pi Zero W   | Rev 1.1 | 28 февраля 2017    | BCM2835              | ARMv6 ARM1176JZF-S   | 1 1GHz x32 | 512MB | 
+| Pi Zero 2 W | Rev 1.0 | 28 октября 2021    | RP3A0-AU (BCM2710A1) | ARMv8.0-A Cortex-A53 | 4 1GHz x64 | 512MB | 
 
-<br><br><br>
+<br><br>
 
 # Список моделей Raspberry Pi Compute Module
 
