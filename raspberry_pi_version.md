@@ -89,28 +89,28 @@
 
 ## Сводная таблица
 
-| Модель         | Ревизия | Дата начала продаж      | SoC          | CPU | 
-| ---            | ---     | ---                     | ---          | ---  |
-| Pi 1 Model B   | Rev 1.0 | 29 февраля 2012         | BCM2835      | ARMv6 ARM1176JZ(F)-S |
-|                | Rev 2.0 | Октябрь 2012            | BCM2835      | ARMv6 ARM1176JZ(F)-S |
-| Pi 1 Model A   | Rev 2.0 | 4 февраля 2013          | BCM2835      | ARMv6 ARM1176JZ(F)-S |
-| Pi 1 Model B+  | Rev 1.2 | 14 июля 2014            | BCM2835      | ARMv6 ARM1176JZ(F)-S |
-| Pi 1 Model A+  | Rev 1.1 | 10 ноября 2014          | BCM2835      | ARMv6 ARM1176JZ(F)-S |
-| Pi 2 Model B   | Rev 1.0 | 2 февраля 2015          | BCM2836      | ARMv7-A Cortex-A7    |
-|                | Rev 1.1 | Апрель 2015 (примерно)  | BCM2836      | ARMv7-A Cortex-A7    |
-|                | Rev 1.2 | Февраль 2016 (примерно) | BCM2837A1    | ARMv8.0-A Cortex-A53 |
-| Pi 3 Model B   | Rev 1.2 | 29 февраля 2016         | BCM2837A1/B0 | ARMv8.0-A Cortex-A53 |
-|                | Rev 1.3 | ???                     | BCM2837B0    | ARMv8.0-A Cortex-A53 |
-| Pi 3 Model B+  | Rev 1.3 | 14 марта 2018           | BCM2837B0    | ARMv8.0-A Cortex-A53 |
-|                | Rev 1.4 | ???                     | BCM2837B0    | ARMv8.0-A Cortex-A53 |
-| Pi 3 Model A+  | Rev 1.0 | 15 ноября 2018          | BCM2837B0    | ARMv8.0-A Cortex-A53 |
-|                | Rev 1.1 | ???                     | BCM2837B0    | ARMv8.0-A Cortex-A53 |
-| Pi 4 Model B   | Rev 1.1 | 24 июня 2019            | BCM2711B0    | ARMv8.0-A Cortex-A72 |
-|                | Rev 1.2 | Начало 2020 (примерно)  | BCM2711B0    | ARMv8.0-A Cortex-A72 |
-|                | Rev 1.4 | 28 мая 2020             | BCM2711C0    | ARMv8.0-A Cortex-A72 |
-|                | Rev 1.5 | 2021 (примерно)         | BCM2711C0    | ARMv8.0-A Cortex-A72 |
-| Pi 5           | Rev 1.0 | 23 октября 2023         | BCM2712C1    | ARMv8.2-A Cortex-A76 |
-|                | Rev 1.1 | 19 августа 2024         | BCM2712D0    | ARMv8.2-A Cortex-A76 |
+| Модель         | Ревизия | Дата начала продаж      | SoC          | CPU                  | Core | RAM             |
+| ---            | ---     | ---                     | ---          | ---                  | ---  | ---             |
+| Pi 1 Model B   | Rev 1.0 | 29 февраля 2012         | BCM2835      | ARMv6 ARM1176JZ(F)-S | 1    | 256MB           |
+|                | Rev 2.0 | Октябрь 2012            | BCM2835      | ARMv6 ARM1176JZ(F)-S | 1    | 256MB/512MB     |
+| Pi 1 Model A   | Rev 2.0 | 4 февраля 2013          | BCM2835      | ARMv6 ARM1176JZ(F)-S | 1    | 256MB           |
+| Pi 1 Model B+  | Rev 1.2 | 14 июля 2014            | BCM2835      | ARMv6 ARM1176JZ(F)-S | 1    | 512MB           |
+| Pi 1 Model A+  | Rev 1.1 | 10 ноября 2014          | BCM2835      | ARMv6 ARM1176JZ(F)-S | 1    | 256MB/512MB     |
+| Pi 2 Model B   | Rev 1.0 | 2 февраля 2015          | BCM2836      | ARMv7-A Cortex-A7    | 4    | 1GB             |
+|                | Rev 1.1 | Апрель 2015 (примерно)  | BCM2836      | ARMv7-A Cortex-A7    | 4    | 1GB             |
+|                | Rev 1.2 | Февраль 2016 (примерно) | BCM2837A1    | ARMv8.0-A Cortex-A53 | 4    | 1GB             |
+| Pi 3 Model B   | Rev 1.2 | 29 февраля 2016         | BCM2837A1/B0 | ARMv8.0-A Cortex-A53 | 4    | 1GB             |
+|                | Rev 1.3 | ???                     | BCM2837B0    | ARMv8.0-A Cortex-A53 | 4    | 1GB             |
+| Pi 3 Model B+  | Rev 1.3 | 14 марта 2018           | BCM2837B0    | ARMv8.0-A Cortex-A53 | 4    | 1GB             |
+|                | Rev 1.4 | ???                     | BCM2837B0    | ARMv8.0-A Cortex-A53 | 4    | 1GB             |
+| Pi 3 Model A+  | Rev 1.0 | 15 ноября 2018          | BCM2837B0    | ARMv8.0-A Cortex-A53 | 4    | 512MB           |
+|                | Rev 1.1 | ???                     | BCM2837B0    | ARMv8.0-A Cortex-A53 | 4    | 512MB           |
+| Pi 4 Model B   | Rev 1.1 | 24 июня 2019            | BCM2711B0    | ARMv8.0-A Cortex-A72 | 4    | 1GB/2GB/4GB      |
+|                | Rev 1.2 | Начало 2020 (примерно)  | BCM2711B0    | ARMv8.0-A Cortex-A72 | 4    | 2GB/4GB          |
+|                | Rev 1.4 | 28 мая 2020             | BCM2711C0    | ARMv8.0-A Cortex-A72 | 4    | 2GB/4GB/8GB      |
+|                | Rev 1.5 | 2021 (примерно)         | BCM2711C0    | ARMv8.0-A Cortex-A72 | 4    | 2GB/4GB/8GB      |
+| Pi 5           | Rev 1.0 | 23 октября 2023         | BCM2712C1    | ARMv8.2-A Cortex-A76 | 4    | 2GB/4GB/8GB      |
+|                | Rev 1.1 | 19 августа 2024         | BCM2712D0    | ARMv8.2-A Cortex-A76 | 4    | 2GB/4GB/8GB/16GB |
 
 ## Ссылки
 [^0]: [Model B now ships with 512MB of RAM](https://www.raspberrypi.com/news/model-b-now-ships-with-512mb-of-ram/)
