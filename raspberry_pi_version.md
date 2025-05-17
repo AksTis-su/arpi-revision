@@ -22,7 +22,7 @@
     - **HDMI**: Катод диода D14 неправильно подключен к линии питания +3V3, что для некоторых дисплеев, совместимых с CEC (Consumer Electronics Control) могло создавать проблемы. Проблема устранена исправлением ECN0001, заключавшемся в простом удалении этого диода.
     - **LAN9512**: Чип LAN9512 имеет внутренний стабилизатор напряжения на 1.8V. Выводы этого стабилизатора (VDD_1V8_CORE) ошибочно подключили к шине питания +1.8V. Одним из побочных эффектов этого подключения являлось то, что остальная часть схемы, висящая на шине питания +1.8V, могла брать питание от внутреннего стабилизатора LAN9512, тем самым повышая его температуру. В следствии чего чип LAN9512 избыточно нагревался. Рекомендуется добавить радиатор для LAN9512. Проблема устранена в ревизии 2.0.
 - **Ревизия 2.0**:
-  - **Дата анонса и начала продаж**: 5 сентября 2012 года. Raspberry Pi Foundation сообщила о выходе второй ревизии платы [^2][^3][^4]. Обновлённые платы начали поставляться сразу после анонса, постепенно заменяя ревизию 1.0.
+  - **Дата анонса и начала продаж**: 5 сентября 2012 года. Raspberry Pi Foundation сообщила о выходе второй ревизии платы [^2][^3][^4]. Обновлённые платы начали поставляться сразу после анонса, постепенно заменяя ревизию 1.0. Изначально шла с 256 МБ ОЗУ, но уже 15 октября 2012 года начала поставляться с 512 МБ ОЗУ [^512]
   - **Примечание:** Ревизия 2.0 не считалась новой моделью, а была улучшением Model B (исправление ошибок).
 
 ## Raspberry Pi 1 Model A
@@ -118,6 +118,7 @@
 [^2]: [Upcoming board revision](https://www.raspberrypi.com/news/upcoming-board-revision/)
 [^3]: [Made in the UK!](https://www.raspberrypi.com/news/made-in-the-uk/)
 [^4]: [A nice shiny photo of the rev2 board](https://www.raspberrypi.com/news/a-nice-shiny-photo-of-the-rev2-board-and-user-guide-news/)
+[^512]: [Model B now ships with 512MB of RAM](https://www.raspberrypi.com/news/model-b-now-ships-with-512mb-of-ram/)
 [^5]: [Model A now for sale in Europe](https://www.raspberrypi.com/news/model-a-now-for-sale-in-europe-buy-one-today/)
 [^6]: [New product launch! Introducing Raspberry Pi Model B+](https://www.raspberrypi.com/news/introducing-raspberry-pi-model-b-plus/)
 [^7]: [Raspberry Pi Model A+ on sale now at $20](https://www.raspberrypi.com/news/raspberry-pi-model-a-plus-on-sale/)
