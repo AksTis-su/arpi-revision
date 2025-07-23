@@ -1,16 +1,25 @@
 #!/usr/bin/env python3
-
+#
 # AksTis Raspberry Pi Revision
-
-# Получение номера ревизии Raspberry Pi
-# Скрипт выводит номер ревизии из /proc/cpuinfo и по этому номеру определяет модель Raspberry Pi
-
+#
+# Описание:
+#   Получение номера ревизии Raspberry Pi
+#   Скрипт выводит номер ревизии из /proc/cpuinfo и по этому номеру определяет модель Raspberry Pi
+#
+# Использование:
+#   1. Загрузите скрипт:
+#      git clone https://github.com/akstis-su/arpi-revision.git
+#   2. Дайте права на выполнение:
+#      chmod +x arpi-revision.sh
+#   3. Запустите:
+#      ./arpi-revision.sh
+#
 # Автор: AksTis
 # https://akstis.su/
-
+#
 # Версия: 1.0
 # Дата: 20 Апреля 2025
-# Лицензия: Общественное достояние
+# Лицензия: MIT
 
 def get_rpi_revision():
 	try:
