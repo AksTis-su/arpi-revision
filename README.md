@@ -1,4 +1,4 @@
-# arpi_revision
+# arpi-revision
 **AksTis Raspberry Pi Revision**
 
 Получение номера ревизии Raspberry Pi
