@@ -52,7 +52,7 @@
 ## Raspberry Pi 3 Model B
 - **Описание**: Модель с 4-ядерным BCM2837 (Cortex-A53, 1.2 ГГц), 1 ГБ ОЗУ, Wi-Fi, Bluetooth, 4 портами USB.
 - **Дата анонса и начала продаж**:
-  - **Ревизия 1.2**: 29 февраля 2016 года. Представлена в честь четырёхлетия Raspberry Pi [^9]. Продажи начались сразу.
+  - **Ревизия 1.2**: 29 февраля 2016 года. Представлена в честь четырёхлетия Raspberry Pi [^9]. Продажи начались сразу. 15 ноября 2017 анонсирована и поступила в продажу версия для бразилии с платой синего цвета [^Blue].
   - **Ревизия 1.3**: Выпущена позже, точная дата неизвестна. Вероятно связана с переходом на процессор с новым степпингом BCM2837B0.
 - **Примечание**: На ревизии 1.2 встречаются процессоры с разным степпингом. С A0 (он же A1 похоже) и с B0. Отличительной чертой нового B0 является металлическая теплораспределительная крышка на процессоре.
 
@@ -128,6 +128,7 @@
 [^7]: [Raspberry Pi Model A+ on sale now at $20](https://www.raspberrypi.com/news/raspberry-pi-model-a-plus-on-sale/)
 [^8]: [Raspberry Pi 2 on sale now at $35](https://www.raspberrypi.com/news/raspberry-pi-2-on-sale/)
 [^9]: [Raspberry Pi 3 on sale now at $35](https://www.raspberrypi.com/news/raspberry-pi-3-on-sale/)
+[^Blue]: [Brand new and blue: our Brazilian Raspberry Pi 3](https://www.raspberrypi.com/news/raspberry-pi-brazil/)
 [^10]: [Raspberry Pi 3 Model B+ on sale now at $35](https://www.raspberrypi.com/news/raspberry-pi-3-model-bplus-sale-now-35/)
 [^11]: [New product: Raspberry Pi 3 Model A+ on sale now at $25](https://www.raspberrypi.com/news/new-product-raspberry-pi-3-model-a/)
 [^12]: [Raspberry Pi 4 on sale now from $35](https://www.raspberrypi.com/news/raspberry-pi-4-on-sale-now-from-35/)
