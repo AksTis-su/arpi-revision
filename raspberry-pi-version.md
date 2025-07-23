@@ -27,9 +27,9 @@
 
 ## Raspberry Pi 1 Model A
 - **Описание**: Упрощённая версия Model B с 256 МБ ОЗУ, 1 портом USB, и без Ethernet. На плате отсутствует чип LAN9512, представляющий из себя USB 2.0 хаб и контроллер Ethernet 10/100.
-- **Дата анонса**: 29 февраля 2012 года. Model A была анонсирована одновременно с Model B, но изначально акцент был на Model B  [^1][^A].
-- **Дата начала продаж**: 4 февраля 2013 года. Model A поступила в продажу позже из-за приоритета производства Model B [^5].
-- **Примечание:** Model A была нацелена на проекты с низким энергопотреблением, в 3 раза меньшим чем у Model B. Cтоила $25. Изначально на Model A планировалось устанавливать только 128 МБ памяти.
+- **Дата анонса**: 29 февраля 2012 года. Model A была анонсирована одновременно с Model B, но изначально акцент был на Model B  [^1][^A1][^A2].
+- **Дата начала продаж**: Первые 12 штук Model A были проданы в декабре 2012 года в рамках благотварительного рождественского аукциона [^A3]. В открытую продажу Model A поступила 4 февраля 2013 года [^5].
+- **Примечание:** Model A была нацелена на проекты с низким энергопотреблением, в 3 раза меньшим чем у Model B. Cтоила $25. Приоритет производства был нацелен на выпуск Model B, поэтому Model A вышла в продажу лишь спустя год после анонса. Изначально на Model A планировалось устанавливать только 128 МБ памяти.
 
 ## Raspberry Pi 1 Model B+
 - **Описание**: Улучшенная версия Model B с 512 МБ ОЗУ, 4 портами USB, 40-пиновым GPIO, microSD вместо SD, улучшенным питанием.
@@ -120,7 +120,9 @@
 [^4]: [A nice shiny photo of the rev2 board](https://www.raspberrypi.com/news/a-nice-shiny-photo-of-the-rev2-board-and-user-guide-news/)
 [^512]: [Model B now ships with 512MB of RAM](https://www.raspberrypi.com/news/model-b-now-ships-with-512mb-of-ram/)
 [^red]: [Red Pi at night](https://www.raspberrypi.com/news/red-pi-at-night/)
-[^A]: [First Model A samples off the line!](https://www.raspberrypi.com/news/first-model-a-samples-off-the-line/)
+[^A1]: [First Model A samples off the line!](https://www.raspberrypi.com/news/first-model-a-samples-off-the-line/)
+[^A2]: [A quick Model A show and tell from Adafruit](https://www.raspberrypi.com/news/a-quick-model-a-show-and-tell-from-adafruit/)
+[^A3]: [Twelve Pis of Christmas: We’re auctioning off the first model As!](https://www.raspberrypi.com/news/twelve-pis-of-christmas-were-auctioning-off-the-first-model-as/)
 [^5]: [Model A now for sale in Europe](https://www.raspberrypi.com/news/model-a-now-for-sale-in-europe-buy-one-today/)
 [^6]: [New product launch! Introducing Raspberry Pi Model B+](https://www.raspberrypi.com/news/introducing-raspberry-pi-model-b-plus/)
 [^7]: [Raspberry Pi Model A+ on sale now at $20](https://www.raspberrypi.com/news/raspberry-pi-model-a-plus-on-sale/)
